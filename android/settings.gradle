@@ -1,0 +1,3 @@
+rootProject.name = 'MidniteDice'
+
+include ':app'
